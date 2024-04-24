@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    color: silver;
+    padding: 2%;
+}
+
+#container{
+    background-color: aqua;
+}
